@@ -1,0 +1,22 @@
+body (
+	background-colour: #D6042A;
+
+img (
+	wight="300"
+	height="600")
+)
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+div (
+	font-family: Charmonman;
+    font-size: 40px;
+)
+
+p {
+    font-family: Charmonman;
+    font-size: 40px;
+}
