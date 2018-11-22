@@ -35,7 +35,7 @@ body {
 .panel-c3 { 
 	background-color: #00FFFF;
 	grid-row-start: 2;
-	grid-row-end: 5;
+	grid-row-end: 6;
 }
 .panel-c4 { 
 	background-color: #B2B1FF;
@@ -45,10 +45,10 @@ body {
 .panel-c5 { 
 	background-color: #FF9BB9;
 	grid-column-start: 2;
-	grid-column-end: 4;
+	grid-column-end: 6;
 }
 .panel-c6 { 
 	background-color: #848AD2;
 	grid-column-start: 2;
-	grid-column-end: 4;
+	grid-column-end: 6;
 }

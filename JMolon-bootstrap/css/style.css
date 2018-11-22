@@ -1,0 +1,24 @@
+body {
+	font-family: Verdana, sans-serif;
+}
+p {
+	color: #655560;
+}
+h1 {
+	color: #878C8F;
+}
+h2 {
+	background-color: #A4969B;
+	margin: 1em 2em;
+}
+header img.logo {
+	height: 50px; 
+}
+header {
+	color: #A4969B;	
+	background-color: #878C8F;
+}
+footer {
+	background-color: #878C8F;
+
+}
