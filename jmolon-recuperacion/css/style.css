@@ -1,0 +1,133 @@
+body {
+	font-size: 16px;
+	background-color: #FFF;
+	font-family: Verdana, sans-serif;
+}
+header {
+	background-color: #d9534f;
+	height: 100px;
+	padding-bottom: 0.5em;
+	text-align: center;
+}
+header a img {
+	height: 50px;
+}
+nav {
+	margin-top: 1.5em;
+	padding-right: 2em;
+}
+nav ul li {
+	margin-bottom: 0.5em;
+	border-bottom: 1px solid #B1DBC3;
+	padding-bottom: 0.3em;
+}
+nav ul li a {
+	text-decoration: none;
+	margin-left: 0.5em;
+}
+main {
+
+}
+h1 {
+	color: #d9534f;
+	font-size: 48px;
+	margin-top: 1.3em;
+	margin-bottom: 1em;
+}
+h2 {
+	color: #ffad60;
+	font-size: 32px;
+	margin-bottom: 0.5em;
+}
+p {
+	color: #5bc0de;
+	font-size: 16px;
+	margin-bottom: 0.5em;
+}
+a {
+	color: #fff;
+}
+footer {
+	background-color: #d9534f;
+	text-align: right;
+	padding-top: 2em;
+	padding-right: 2em;
+	padding-bottom: 1.5em;
+}
+footer p {
+	color: #FFF;
+	padding-top: 2em;
+	padding-right: 2em;
+	padding-bottom: 1.5em;
+	font-size: 0.8em;
+}
+.navegacion {
+	width: 33.3%;
+	width: calc(33.3% - 1em);
+	margin-right: 1em;
+	float: left;
+}
+.principal {
+	width: 66.6%;
+	/* width: calc(66.6%) */
+	float: left;
+}
+.noticias {
+	border: 1px solid #222442;
+	margin-right: 2em;
+	margin-bottom: 1em;
+	padding: 1em;
+	padding-right: 1.5em;
+}
+.noticias h2 {
+	margin-bottom: 1em;
+}
+.noticias p {
+	margin-bottom: 1em;
+}
+.noticias a {
+	text-decoration: none;
+}
+.noticia-1 {
+	margin-bottom: 0.5em;
+	margin-right: 1.8em;
+}
+.noticia-1 h2 {
+	margin-bottom: 1em;
+}
+.noticia-1 p {
+	color: #5bc0de;
+	margin-bottom: 1.5em;
+}
+.noticia-2 {
+	margin-bottom: 0.5em;
+	margin-right: 1.8em;
+}
+.noticia-2 h2 {
+	margin-bottom: 1em;
+}
+.noticia-2 p {
+	margin-bottom: 1.5em;
+}
+.active {
+	border-radius: 0.5em;
+	background-color: #B1DBC3;
+	color: #FFF
+}
+.cf {
+	margin-bottom: 2em;
+	margin-top: 1em;
+}
+.cf:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.cf { display: inline-block; }
+/* start commented backslash hack \*/
+* html .cf { height: 1%; }
+.cf { display: block; }
+/* close commented backslash hack */
