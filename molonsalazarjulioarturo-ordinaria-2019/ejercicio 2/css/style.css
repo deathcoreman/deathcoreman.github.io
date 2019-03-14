@@ -1,0 +1,21 @@
+body {
+	font-family: 'Playfair Display', serif;
+}
+.caja {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    margin: 1em;
+}
+.morado {
+	background-color:rgb(163, 0, 196) 
+}
+.verde {
+	background-color: #009b15;
+}
+.gris {
+	background-color: rgb(145, 145, 145)
+}
+.azul {
+	background-color: rgb(32, 0, 175)
+}
