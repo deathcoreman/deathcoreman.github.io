@@ -1,0 +1,75 @@
+body {
+	font-family: 'Merriweather', serif; 
+	font-size: 50px;
+}
+.logo {
+
+}
+h1 {
+	font-size: 60px;
+	padding-left: 30px;
+}
+.caja {
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	margin-left: 21px;
+	text-align: center;
+}
+.logo {
+	width: 300px;
+	height: 150px;
+}
+.logo img {
+	margin-top: 10px;
+}
+.texto p {
+	font-size: 20px;
+}
+.fila {
+	padding-bottom: 20px;
+}
+.amarillo {
+	background-color: #FFFF00;
+}
+.gris {
+	background-color: #808080;
+}
+.azul {
+	background-color: #00FFFF;
+}
+.verde {
+	background-color: #00FF00;
+}
+.rosa {
+	background-color: #FF00FF;
+}
+.morada {
+	background-color: #B404AE;
+}
+.naranja {
+	background-color: #FE9A2E;
+}
+.roja {
+	background-color: #FF0000;
+}
+.mostaza {
+	background-color: #D7DF01;
+}
+.fucsia {
+	background-color: #FA58D0;
+}
+.marino {
+	background-color: #81DAF5;
+}
+.grey {
+	background-color: #BDBDBD;
+}
+.img-responsive {
+	max-width: 100%;
+}	
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}

@@ -1,0 +1,61 @@
+body {	
+	font-family: 'Oswald', sans-serif;
+}
+#contenedor {
+	background-color: #e6e6e6;
+}
+header {
+	background-color: #000000;
+	height: 90px;
+	padding: 5px;
+}
+button {
+	float: right;
+	margin-top: 30px;
+	margin-right: 110px;
+	margin-bottom: 50px;
+	background-color: #fff;
+	padding: 0.5em;
+	width: 11%;
+}
+.content {
+	margin-left: 50px;
+	padding-bottom: 210px;
+	padding-top: 100px;
+}
+.titulo {
+	padding-top: 50px;
+	margin-left: 50px;
+	padding-bottom: 1em;
+}
+h3 {
+	font-family: 'Merriweather', serif;
+	font-size: 110px;
+}
+.slogan {
+	margin-left: 50px;
+	font-size: 70px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+p {
+	font-size: 15px;
+	margin-bottom: 10px;
+	font-family: 'Crimson Text', serif;
+}
+h2 {
+	font-size: 18px;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+h1 {
+	font-family: 'Acme', sans-serif;
+	font-size: 33px;
+	padding-top: 30px;
+	font-weight: bold;	
+}
+.principal {
+	width: 90%;
+	margin: 0 auto;
+	background-color: #fff;
+}
